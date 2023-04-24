@@ -1,5 +1,5 @@
 **[MindSwap Bootcamp's](https://mindswap.academy/)** project
-created by **[Daniela Spitze](https://github.com/DaniSpitzer/)**,
+created by **[Daniela Spitzer](https://github.com/DaniSpitzer/)**,
 **[Susana Gandra](https://github.com/susanagandra/)**.
 
 
